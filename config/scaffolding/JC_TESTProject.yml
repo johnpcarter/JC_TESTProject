@@ -24,3 +24,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.1018
+- serviceName: project.jc_test.integrations:helloWorld
+  packages:
+  - name: JC_TESTProject
+    version: "1.0"
