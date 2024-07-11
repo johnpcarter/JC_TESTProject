@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/johnpcarter/JC_TESTProject
   gitUsername: johnpcarter
   gitBranch: main
+services:
+- serviceName: project.jc_test.integrations:random
+  packages:
+  - name: JC_TESTProject
+    version: "1.0"
+- serviceName: pub.math:randomDouble
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.1018
