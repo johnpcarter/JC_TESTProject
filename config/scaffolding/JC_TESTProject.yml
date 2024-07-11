@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: JC_TESTProject
+  gitServerName: John Carter
+  gitUrl: https://github.com/johnpcarter/JC_TESTProject
+  gitUsername: johnpcarter
+  gitBranch: main
