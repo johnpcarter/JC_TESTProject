@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/johnpcarter
   gitUsername: johnpcarter
   gitBranch: main
+services:
+- serviceName: project.jc_test.integrations:helloWorld
+  packages:
+  - name: JC_TESTProject
+    version: "1.0"
