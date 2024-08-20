@@ -6,6 +6,6 @@
   <!-- nodes -->
 
 <SEQUENCE NAME="NEW" EXIT-ON="FAILURE">
-  <COMMENT></COMMENT>
+  <COMMENT>bloop bloop</COMMENT>
 </SEQUENCE>
 </FLOW>
